@@ -1,0 +1,20 @@
+.parent{
+    height: 470px;
+    width: 350px;
+    background-color: #3D3D5c;
+    margin: 40px  auto;
+    border-radius: 10px;
+    padding: 25px;
+  
+}
+.child{
+    height: 40px;
+    width: 337px;
+    background-color: #a1af77;
+    text-align: right;
+    font-size: 30px;
+    display: block;
+    padding: 7px 7px;
+    margin: 1 auto;
+
+}
