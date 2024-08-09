@@ -32,12 +32,14 @@
     font-size: 25px;
     text-align: center;
     padding: 7px 7px;
-    margin: 3px 5px;
+    margin: 3px ;
     border-radius: 5px;  
     cursor:pointer;
+    border:#3D3D5c;
 }
 .btn:hover{
-    box-shadow:  0 0 3px 0 white;
+    box-shadow:  0 0 6px  0  white;
+    transition: 0.3s;
 }
 
 .btn-special{
