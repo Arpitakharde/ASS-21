@@ -1,5 +1,5 @@
 .parent{
-    height: 470px;
+    height: 430px;
     width: 300px;
     background-color: #3D3D5c;
     margin: 45px  auto;
@@ -15,7 +15,8 @@
     font-size: 30px;
     display: block;
     padding: 5px 5px;
-    margin:5px 5px;
+    margin:30px 5px;
+    font-family: "DS-Digital Noramal";
 }
 
 .child-2{
